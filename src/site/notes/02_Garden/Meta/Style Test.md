@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Meta/Style Test.md","permalink":"/meta/style-test/","tags":["system/css-test","status/stable"],"dg-note-properties":{"status":"fruit","date":"2026-04-27","tags":["system/css-test","status/stable"]}}
+{"dg-publish":true,"dg-path":"Meta/Style Test.md","permalink":"/meta/style-test/","tags":["system/css-test","status/stable"],"noteIcon":"seedling","dg-note-properties":{"status":"fruit","date":"2026-04-27","tags":["system/css-test","status/stable"]}}
 ---
 
 

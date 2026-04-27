@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Static/Static Category.md","permalink":"/static/static-category/","tags":["status/seedling","category/static"],"dg-note-properties":{"date":"2026-04-27","status":"seedling","tags":["status/seedling","category/static"]}}
+{"dg-publish":true,"dg-path":"Static/Static Category.md","permalink":"/static/static-category/","tags":["status/seedling","category/static"],"noteIcon":"seedling","dg-note-properties":{"date":"2026-04-27","status":"seedling","tags":["status/seedling","category/static"]}}
 ---
 
 # 🌱 Static Category
