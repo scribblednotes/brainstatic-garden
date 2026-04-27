@@ -1,11 +1,19 @@
 {
   "/": [
     "Home",
+    "Technology",
     "Static",
+    "Music",
     "Meta"
   ],
+  "/Technology": [
+    "index"
+  ],
   "/Static": [
-    "Static Category"
+    "index"
+  ],
+  "/Music": [
+    "index"
   ],
   "/Meta": [
     "Style Test"
