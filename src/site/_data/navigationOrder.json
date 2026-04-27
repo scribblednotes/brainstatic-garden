@@ -1,0 +1,13 @@
+{
+  "/": [
+    "Home",
+    "Static",
+    "Meta"
+  ],
+  "/Static": [
+    "Static Category"
+  ],
+  "/Meta": [
+    "Style Test"
+  ]
+}
