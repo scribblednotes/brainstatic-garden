@@ -1,7 +1,7 @@
-/* --- BRAIN STATIC TERMINAL SIGNAL --- */
+/* --- BRAIN STATIC: TERMINAL CORE --- */
 
 :root {
-    /* Core Terminal Colors */
+    /* Background and Signal Colors */
     --background-primary: #050505 !important;
     --text-normal: #5eecec !important; /* Cyan */
     --text-accent: #FF5CFF !important; /* Magenta */
@@ -9,33 +9,38 @@
     --font-family-header: 'Fira Code', monospace !important;
 }
 
-/* Ensure icons and header metadata render */
+/* 1. FORCE ICON & METADATA RECOVERY */
+/* This forces the Seedling icons to manifest in the header */
 .note-icon {
     display: inline-block !important;
     margin-right: 12px !important;
+    font-style: normal !important;
 }
 
 .dg-note-header {
     display: flex !important;
-    border-bottom: 1px dashed #5eecec !important;
+    align-items: center;
+    border-bottom: 1px dashed #5eecec !important; /* Cyan Divider */
     margin-bottom: 2rem;
     padding-bottom: 1rem;
 }
 
-/* Cleanup: Hide backlinks on Home Page to prevent clutter */
+/* 2. SIDEBAR CLEANUP (Home Page Only) */
+/* This kills the long backlink list on brainstatic.xyz */
 body[data-slug="brain-static"] .backlinks-container, 
 body[data-slug="brain-static"] .backlinks-header {
     display: none !important;
 }
 
-/* ADHD Friendly: Remove focus highlight, use solid terminal borders */
-p {
-    border-left: none !important;
-    padding-left: 0 !important;
+/* 3. THE TERMINAL DEPTH */
+body {
+    background-color: #050505 !important;
+    color: #5eecec !important;
 }
 
-hr {
-    border: none;
-    border-top: 1px dashed #5eecec;
-    opacity: 0.5;
+/* 4. DESIGN: CLEANER SIGNAL */
+/* Removing that "annoying" highlight block we tried earlier */
+p:hover {
+    border-left: none !important;
+    padding-left: 0 !important;
 }
