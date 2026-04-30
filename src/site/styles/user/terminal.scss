@@ -1,0 +1,41 @@
+/* --- BRAIN STATIC TERMINAL SIGNAL --- */
+
+:root {
+    /* Core Terminal Colors */
+    --background-primary: #050505 !important;
+    --text-normal: #5eecec !important; /* Cyan */
+    --text-accent: #FF5CFF !important; /* Magenta */
+    --font-family-main: 'Fira Code', monospace !important;
+    --font-family-header: 'Fira Code', monospace !important;
+}
+
+/* Ensure icons and header metadata render */
+.note-icon {
+    display: inline-block !important;
+    margin-right: 12px !important;
+}
+
+.dg-note-header {
+    display: flex !important;
+    border-bottom: 1px dashed #5eecec !important;
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+}
+
+/* Cleanup: Hide backlinks on Home Page to prevent clutter */
+body[data-slug="brain-static"] .backlinks-container, 
+body[data-slug="brain-static"] .backlinks-header {
+    display: none !important;
+}
+
+/* ADHD Friendly: Remove focus highlight, use solid terminal borders */
+p {
+    border-left: none !important;
+    padding-left: 0 !important;
+}
+
+hr {
+    border: none;
+    border-top: 1px dashed #5eecec;
+    opacity: 0.5;
+}
