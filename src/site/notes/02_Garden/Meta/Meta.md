@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Meta/Meta.md","permalink":"/meta/meta/","pinned":true,"tags":["status/tree"],"noteIcon":"🌳","created":"30 April 2026, 04:33","updated":"30 April 2026, 04:33","dg-note-properties":{"status":"tree","category":"Meta","permalink":"/meta/","date":"30 April 2026, 04:33","updated":"30 April 2026, 04:33","author":"Jackie Plage","tags":["status/tree"],"description":"Meta category index page"}}
+{"dg-publish":true,"dg-pinned":true,"dg-note-icon":"🌳","status":"tree","category":"Meta","permalink":"/meta/meta/","date":"30 April 2026, 04:33","updated":"30 April 2026, 04:33","author":"Jackie Plage","tags":["status/tree"],"description":"Meta category index page","dg-path":"Meta/Meta.md","pinned":true,"dgPassFrontmatter":true,"noteIcon":"🌳","created":"30 April 2026, 04:33","dg-note-properties":{"status":"tree","category":"Meta","permalink":"/meta/","date":"30 April 2026, 04:33","updated":"30 April 2026, 04:33","author":"Jackie Plage","tags":["status/tree"],"description":"Meta category index page"}}
 ---
 
 # Meta

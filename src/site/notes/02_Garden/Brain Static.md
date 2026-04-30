@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Brain Static.md","permalink":"/brain-static/","tags":["gardenEntry"],"noteIcon":"seedling","created":"30 April 2026, 01:41","updated":"30 April 2026, 01:41","dg-note-properties":{"date":"30 April 2026, 01:41","updated":"30 April 2026, 01:41","author":"Jackie Plage","tags":null,"description":"Jackie's personal digital garden"}}
+{"dg-publish":true,"dg-home":true,"date":"30 April 2026, 01:41","updated":"30 April 2026, 01:41","author":"Jackie Plage","tags":["gardenEntry"],"description":"Jackie's personal digital garden","dg-path":"Brain Static.md","permalink":"/brain-static/","dgPassFrontmatter":true,"noteIcon":"seedling","created":"30 April 2026, 01:41","dg-note-properties":{"date":"30 April 2026, 01:41","updated":"30 April 2026, 01:41","author":"Jackie Plage","tags":null,"description":"Jackie's personal digital garden"}}
 ---
 
 # Welcome to Brain Static!
@@ -32,10 +32,11 @@ To enable navigation via that pretty graph on the right sidebar, I'll also link 
 
 This is a list of the 10 most recently updated pages.
 
-| File                                         | Status | Updated       | Category |
-| -------------------------------------------- | ------ | ------------- | -------- |
-| [[02_Garden/Health/IBS\|IBS]]             | 🌱     | 30 April 2026 | Health   |
-| [[02_Garden/Meta/Style Test\|Style Test]] | 🍎     | 30 April 2026 | Meta     |
+| File                                                    | Status | Updated       | Category |
+| ------------------------------------------------------- | ------ | ------------- | -------- |
+| [[02_Garden/Health/IBS\|IBS]]                        | 🌱     | 30 April 2026 | Health   |
+| [[02_Garden/Meta/Style Test\|Style Test]]            | 🍎     | 30 April 2026 | Meta     |
+| [[02_Garden/Toolbox/Daily Software\|Daily Software]] | 1      | 30 April 2026 | Toolbox  |
 
 { .block-language-dataview}
 
