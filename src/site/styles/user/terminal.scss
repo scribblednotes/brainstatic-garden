@@ -1,49 +1,66 @@
-/* --- BRAIN STATIC: TERMINAL OVERRIDE --- */
+/* --- BRAIN STATIC: TERMINAL V9.0 (AnuPpuccin Override) --- */
 
-/* 1. THE SIGNAL COLORS (High Specificity) */
-:root, body, .content, .markdown-rendered {
-    --background-primary: #050505 !important; /* Terminal Black */
+:root {
+    /* 1. Terminal Signal Colors */
+    --background-primary: #050505 !important; /* Deep Black */
     --text-normal: #5eecec !important;        /* Cyan Signal */
     --text-accent: #FF5CFF !important;        /* Magenta Pulse */
+    
+    /* 2. Monospace Force (No Google Fonts) */
+    /* Uses system monospace stack: Fira Code (if installed), then UI defaults */
+    --font-family-main: "Fira Code", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace !important;
+    --font-family-header: "Fira Code", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace !important;
+
+    /* 3. AnuPpuccin Specific Overrides */
+    --ctp-macchiato-rosewater: #FF5CFF !important;
+    --ctp-macchiato-blue: #5eecec !important;
     --interactive-accent: #FF5CFF !important;
-    --font-family-main: 'Fira Code', monospace !important;
-    --font-family-header: 'Fira Code', monospace !important;
 }
 
-/* 2. FORCE ICON & METADATA VISIBILITY */
-/* This forces the header area to manifest the icons and dates */
+/* 4. LAYOUT: HIDE HOME PAGE CLUTTER */
+/* Kills the backlink list ONLY on the brainstatic.xyz landing page */
+body[data-slug="brain-static"] .backlinks-container, 
+body[data-slug="brain-static"] .backlinks-header {
+    display: none !important;
+}
+
+/* 5. FORCE HEADER METADATA (Icons & Dates) */
 .dg-note-header {
     display: flex !important;
-    border-bottom: 1px dashed #5eecec !important; 
+    align-items: center;
+    border-bottom: 1px dashed #5eecec !important;
     margin-bottom: 2rem !important;
     padding-bottom: 1rem !important;
+    visibility: visible !important;
 }
 
 .note-icon {
     display: inline-block !important;
     margin-right: 12px !important;
-    visibility: visible !important;
+    font-size: 1.2rem !important;
 }
 
-/* 3. THE HOME PAGE SIDEBAR FIX */
-/* This hides the "Pages mentioning this page" ONLY on the landing page */
-[data-slug="brain-static"] .backlinks-container, 
-[data-slug="brain-static"] .backlinks-header {
-    display: none !important;
+/* 6. TERMINAL TYPOGRAPHY */
+body {
+    background-color: #050505 !important;
+    color: #5eecec !important;
+    line-height: 1.6;
 }
 
-/* 4. TYPOGRAPHY REFINEMENT */
-h1, h2, h3, .note-title {
+h1, h2, .note-title {
     color: #5eecec !important;
     text-transform: uppercase;
     letter-spacing: 0.1em;
 }
 
+/* Links: Dusty Cyan with Magenta hover */
 a {
-    color: #5da5a5 !important; /* Dusty Cyan */
+    color: #5da5a5 !important;
     text-decoration: underline dotted;
 }
 
 a:hover {
-    color: #FF5CFF !important; /* Magenta Glow */
+    color: #FF5CFF !important;
+    text-decoration: underline solid;
+    text-shadow: 0 0 5px #FF5CFF;
 }
