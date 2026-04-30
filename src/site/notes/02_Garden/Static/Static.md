@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-pinned":true,"dg-note-icon":"🌱","status":"seedling","category":"Static","permalink":"/static/static/","date":"30 April 2026, 02:26","updated":"30 April 2026, 02:26","author":"Jackie Plage","tags":["status/seedling"],"description":"Static category index page","dg-path":"Static/Static.md","pinned":true,"dgPassFrontmatter":true,"noteIcon":"🌱","created":"30 April 2026, 02:26","dg-note-properties":{"status":"seedling","category":"Static","permalink":"/static/","date":"30 April 2026, 02:26","updated":"30 April 2026, 02:26","author":"Jackie Plage","tags":["status/seedling"],"description":"Static category index page"}}
+{"dg-publish":true,"dg-pinned":true,"dg-note-icon":"🌱","status":"seedling","category":"Static","permalink":"/static/static/","dg-created":"30 April 2026, 02:26","dg-updated":"30 April 2026, 02:26","author":"Jackie Plage","tags":["status/seedling"],"description":"Static category index page","dg-path":"Static/Static.md","pinned":true,"dgPassFrontmatter":true,"noteIcon":"🌱","created":"30 April 2026, 02:26","updated":"30 April 2026, 02:26","dg-note-properties":{"status":"seedling","category":"Static","permalink":"/static/","author":"Jackie Plage","tags":["status/seedling"],"description":"Static category index page"}}
 ---
 
 # Static Category

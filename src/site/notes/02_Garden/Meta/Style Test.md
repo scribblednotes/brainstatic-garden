@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-pinned":false,"dg-note-icon":"🍎","status":"fruit","category":"Meta","permalink":"/meta/style-test/","date":"30 April 2026, 04:41","updated":"30 April 2026, 04:41","author":"Jackie Plage","tags":["status/fruit","meta/csstest"],"description":"CSS test page","dg-path":"Meta/Style Test.md","dgPassFrontmatter":true,"noteIcon":"🍎","created":"30 April 2026, 04:41","dg-note-properties":{"status":"fruit","category":"Meta","permalink":null,"date":"30 April 2026, 04:41","updated":"30 April 2026, 04:41","author":"Jackie Plage","tags":["status/fruit","meta/csstest"],"description":"CSS test page"}}
+{"dg-publish":true,"dg-pinned":false,"dg-note-icon":"🍎","status":"fruit","category":"Meta","permalink":"/meta/style-test/","dg-created":"30 April 2026, 04:41","dg-updated":"30 April 2026, 04:41","author":"Jackie Plage","tags":["status/fruit","meta/csstest"],"description":"CSS test page","dg-path":"Meta/Style Test.md","dgPassFrontmatter":true,"noteIcon":"🍎","created":"30 April 2026, 04:41","updated":"30 April 2026, 04:41","dg-note-properties":{"status":"fruit","category":"Meta","permalink":null,"author":"Jackie Plage","tags":["status/fruit","meta/csstest"],"description":"CSS test page"}}
 ---
 
 

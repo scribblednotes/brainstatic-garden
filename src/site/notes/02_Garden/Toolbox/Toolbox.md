@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-pinned":true,"dg-note-icon":"🌱","status":"seedling","category":"Toolbox","permalink":"/toolbox/toolbox/","date":"30 April 2026, 05:03","updated":"30 April 2026, 05:03","author":"Jackie Plage","tags":["status/seedling"],"description":"Toolbox category index page","dg-path":"Toolbox/Toolbox.md","pinned":true,"dgPassFrontmatter":true,"noteIcon":"🌱","created":"30 April 2026, 05:03","dg-note-properties":{"status":"seedling","category":"Toolbox","permalink":"/toolbox/","date":"30 April 2026, 05:03","updated":"30 April 2026, 05:03","author":"Jackie Plage","tags":["status/seedling"],"description":"Toolbox category index page"}}
+{"dg-publish":true,"dg-pinned":true,"dg-note-icon":"🌱","status":"seedling","category":"Toolbox","permalink":"/toolbox/toolbox/","dg-created":"30 April 2026, 05:03","dg-updated":"30 April 2026, 05:03","author":"Jackie Plage","tags":["status/seedling"],"description":"Toolbox category index page","dg-path":"Toolbox/Toolbox.md","pinned":true,"dgPassFrontmatter":true,"noteIcon":"🌱","created":"30 April 2026, 05:03","updated":"30 April 2026, 05:03","dg-note-properties":{"status":"seedling","category":"Toolbox","permalink":"/toolbox/","author":"Jackie Plage","tags":["status/seedling"],"description":"Toolbox category index page"}}
 ---
 
 # Toolbox

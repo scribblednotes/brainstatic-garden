@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"date":"30 April 2026, 01:41","updated":"30 April 2026, 01:41","author":"Jackie Plage","tags":["gardenEntry"],"description":"Jackie's personal digital garden","dg-path":"Brain Static.md","permalink":"/brain-static/","dgPassFrontmatter":true,"noteIcon":"seedling","created":"30 April 2026, 01:41","dg-note-properties":{"date":"30 April 2026, 01:41","updated":"30 April 2026, 01:41","author":"Jackie Plage","tags":null,"description":"Jackie's personal digital garden"}}
+{"dg-publish":true,"dg-home":true,"dg-created":"30 April 2026, 01:41","dg-updated":"30 April 2026, 01:41","author":"Jackie Plage","tags":["gardenEntry"],"description":"Jackie's personal digital garden","dg-path":"Brain Static.md","permalink":"/brain-static/","dgPassFrontmatter":true,"noteIcon":"seedling","created":"30 April 2026, 01:41","updated":"30 April 2026, 01:41","dg-note-properties":{"author":"Jackie Plage","tags":null,"description":"Jackie's personal digital garden"}}
 ---
 
 # Welcome to Brain Static!

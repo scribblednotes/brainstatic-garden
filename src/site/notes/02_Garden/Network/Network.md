@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-pinned":true,"dg-note-icon":"🌱","status":"seedling","category":"Network","permalink":"/network/network/","date":"30 April 2026, 04:51","updated":"30 April 2026, 04:51","author":"Jackie Plage","tags":["status/seedling"],"description":"Network category index page","dg-path":"Network/Network.md","pinned":true,"dgPassFrontmatter":true,"noteIcon":"🌱","created":"30 April 2026, 04:51","dg-note-properties":{"status":"seedling","category":"Network","permalink":"/network/","date":"30 April 2026, 04:51","updated":"30 April 2026, 04:51","author":"Jackie Plage","tags":["status/seedling"],"description":"Network category index page"}}
+{"dg-publish":true,"dg-pinned":true,"dg-note-icon":"🌱","status":"seedling","category":"Network","permalink":"/network/network/","dg-created":"30 April 2026, 04:51","dg-updated":"30 April 2026, 04:51","author":"Jackie Plage","tags":["status/seedling"],"description":"Network category index page","dg-path":"Network/Network.md","pinned":true,"dgPassFrontmatter":true,"noteIcon":"🌱","created":"30 April 2026, 04:51","updated":"30 April 2026, 04:51","dg-note-properties":{"status":"seedling","category":"Network","permalink":"/network/","author":"Jackie Plage","tags":["status/seedling"],"description":"Network category index page"}}
 ---
 
 # Network
