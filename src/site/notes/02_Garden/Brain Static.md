@@ -10,7 +10,7 @@ By design, a [digital garden](https://maggieappleton.com/garden-history/) is imp
 
 ## The Digital Garden Legend
 
-Every page is flagged with an icon in its title
+Every page is flagged with an icon in its title:
 
 🌱  Seedlings.  Initial ideas.
 🌳  Trees.  Expanded ideas.
