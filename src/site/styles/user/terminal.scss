@@ -1,26 +1,25 @@
-/* --- BRAIN STATIC: TERMINAL V11.0 (The AnuPpuccin Purge) --- */
+/* --- BRAIN STATIC: TERMINAL V11.0 (The Final Override) --- */
 
 :root {
-    /* 1. Terminal Signal Colors - Unified */
+    /* 1. Core Terminal Signal */
     --background-primary: #050505 !important;
-    --background-secondary: #050505 !important; /* Forces sidebar to match main terminal */
+    --background-secondary: #050505 !important; /* Forces sidebar/header to match */
     --text-normal: #5eecec !important;        /* Cyan Signal */
-    --text-muted: #5da5a5 !important;         /* Dusty Cyan for lower priority text */
     --text-accent: #FF5CFF !important;        /* Magenta Pulse */
     
-    /* 2. System Monospace Stack (No Google/External Calls) */
+    /* 2. System Monospace Force (No Google/External Calls) */
     --font-family-main: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, monospace !important;
     --font-family-header: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, monospace !important;
 }
 
-/* 3. LAYOUT: HIDE HOME PAGE BACKLINKS */
-/* This kills the right-sidebar clutter on brainstatic.xyz only */
-body[data-slug="brain-static"] .backlinks-container, 
-body[data-slug="brain-static"] .backlinks-header {
+/* 3. LAYOUT: KILL HOME PAGE BACKLINKS */
+/* Targets the "Pages mentioning this page" ONLY on brainstatic.xyz */
+[data-slug="brain-static"] .backlinks-container, 
+[data-slug="brain-static"] .backlinks-header {
     display: none !important;
 }
 
-/* 4. TYPOGRAPHY: UNIFIED CYAN HEADINGS */
+/* 4. TYPOGRAPHY: CYAN HEADINGS */
 h1, h2, h3, h4, h5, h6, .note-title, .header-noir {
     color: #5eecec !important;
     text-transform: uppercase !important;
@@ -29,7 +28,7 @@ h1, h2, h3, h4, h5, h6, .note-title, .header-noir {
 
 /* 5. INTERACTION: MAGENTA LINKS + YELLOW HOVER */
 a {
-    color: #FF5CFF !important; /* Magenta interaction */
+    color: #FF5CFF !important; 
     text-decoration: underline dotted;
     transition: color 0.2s ease-in-out;
 }
@@ -40,21 +39,24 @@ a:hover {
     text-shadow: 0 0 8px #FFFF00;
 }
 
-/* 6. SIDEBAR & BACKGROUND FORCE */
-body, .sidebar, nav, aside, .content-container {
+/* 6. SIDEBAR & UI DEPTH FORCE */
+body, .sidebar, nav, aside, .content-container, .navbar {
     background-color: #050505 !important;
     color: #5eecec !important;
 }
 
 /* 7. METADATA HEADER (Icons/Dates) */
+/* Forces the Seedling icon and Date to manifest */
 .dg-note-header {
     display: flex !important;
     border-bottom: 1px dashed #5eecec !important;
     margin-bottom: 2rem !important;
     padding-bottom: 1rem !important;
+    visibility: visible !important;
 }
 
 .note-icon {
     display: inline-block !important;
     margin-right: 12px !important;
+    visibility: visible !important;
 }
