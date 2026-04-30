@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"Meta/Style Test.md","permalink":"/meta/style-test/","tags":["system/css-test","status/stable"],"noteIcon":"seedling","dg-note-properties":{"status":"fruit","date":"2026-04-27","tags":["system/css-test","status/stable"]}}
+{"dg-publish":true,"dg-path":"Meta/Style Test.md","permalink":"/meta/style-test/","tags":["status/fruit","meta/csstest"],"noteIcon":"🍎","created":"30 April 2026, 04:41","updated":"30 April 2026, 04:41","dg-note-properties":{"status":"fruit","category":"Meta","permalink":null,"date":"30 April 2026, 04:41","updated":"30 April 2026, 04:41","author":"Jackie Plage","tags":["status/fruit","meta/csstest"],"description":"CSS test page"}}
 ---
 
 
-# 🚀 BRAIN STATIC: THE SYSTEM STRESS TEST (H1)
+# BRAIN STATIC: STYLESHEET TEST
 
-This is the ultimate benchmark note for testing the **Terminal High-Fidelity** theme. Use this note to verify that every signal (text) is readable against the background noise (primary-background).
+This is the ultimate benchmark note for testing the current css on the site.
 
 ---
 
@@ -103,7 +103,7 @@ def brain_static_loop():
 
 ## 7. Connectivity (Links & References)
 - **External Link:** [The Digital Garden Repo](https://github.com/oleeskild/digitalgarden)
-- **Internal Link:** [[02_Garden/Static/Static Category\|Static Category]]
+- **Internal Link:** [[02_Garden/Meta/Meta\|Meta]]
 - **Footnote Link:** This thought needs a citation[^1]. 
 
 [^1]: This is the footnote content at the bottom of the system log.
