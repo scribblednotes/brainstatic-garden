@@ -1,60 +1,58 @@
-/* --- BRAIN STATIC: TERMINAL V9.0 (Force Override) --- */
+/* --- BRAIN STATIC: TERMINAL V10.0 --- */
 
-/* 1. THE CORE SIGNAL: Background & Monospace */
-body {
-    --background-primary: #050505 !important; /* Deep Black */
-    --text-normal: #5eecec !important;        /* Signature Cyan */
-    --text-accent: #FF5CFF !important;        /* Interactive Magenta */
+:root {
+    /* 1. Core Colors */
+    --background-primary: #050505 !important;
+    --text-normal: #5eecec !important; /* Cyan */
+    --text-accent: #FF5CFF !important; /* Magenta */
     
-    /* System Monospace Stack (No Google Fonts) */
+    /* 2. Monospace Force (No Google Fonts) */
     --font-family-main: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, monospace !important;
     --font-family-header: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, monospace !important;
-
-    background-color: #050505 !important;
-    color: #5eecec !important;
-    font-family: var(--font-family-main) !important;
 }
 
-/* 2. HIDE BACKLINKS ON HOME PAGE ONLY */
-/* This targets the 'Pages mentioning this page' section specifically on your landing page */
-[data-slug="brain-static"] .backlinks-container,
-[data-slug="brain-static"] .backlinks-header {
+/* 3. LAYOUT: HIDE BACKLINKS ON HOME PAGE ONLY */
+/* This solves the right-sidebar clutter on brainstatic.xyz */
+body[data-slug="brain-static"] .backlinks-container, 
+body[data-slug="brain-static"] .backlinks-header {
     display: none !important;
 }
 
-/* 3. TERMINAL UI ACCENTS */
-h1, h2, .note-title {
-    color: #5eecec !important; /* Cyan Identity */
+/* 4. TYPOGRAPHY: CYAN HEADINGS */
+h1, h2, h3, h4, h5, h6, .note-title {
+    color: #5eecec !important;
     text-transform: uppercase;
     letter-spacing: 0.1em;
 }
 
-h3, .tagline {
-    color: #FF5CFF !important; /* Magenta Pulse */
-    text-transform: uppercase;
-    letter-spacing: 0.2em;
-}
-
-/* 4. INTERACTIVE SIGNALS (Links) */
+/* 5. INTERACTION: MAGENTA LINKS + YELLOW HOVER */
 a {
-    color: #5da5a5 !important; /* Dusty Cyan for static state */
+    color: #FF5CFF !important; /* Magenta pulse */
     text-decoration: underline dotted;
+    transition: all 0.2s ease-in-out;
 }
 
 a:hover {
-    color: #FF5CFF !important; /* Magenta on interaction */
+    color: #FFFF00 !important; /* Neon Yellow Signal */
     text-decoration: underline solid;
+    text-shadow: 0 0 8px #FFFF00; /* Neon Glow */
 }
 
-/* 5. METADATA HEADER */
+/* 6. FORCE ICON & DATE VISIBILITY */
 .dg-note-header {
     display: flex !important;
     border-bottom: 1px dashed #5eecec !important;
-    margin-bottom: 2rem;
-    padding-bottom: 1rem;
+    margin-bottom: 2rem !important;
+    padding-bottom: 1rem !important;
 }
 
 .note-icon {
     display: inline-block !important;
     margin-right: 12px !important;
+}
+
+/* 7. TERMINAL CLEANUP */
+body {
+    background-color: #050505 !important;
+    color: #5eecec !important;
 }
