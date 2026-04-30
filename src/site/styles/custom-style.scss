@@ -1,13 +1,31 @@
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+/* --- 1. ICON SIGNAL RECOVERY --- */
+/* This forces the dg-note-icon to display even if the theme tries to hide it */
+.note-icon {
+    display: inline-block !important;
+    margin-right: 12px;
+    font-style: normal !important;
+}
+
+.dg-note-header {
+    display: flex !important;
+    align-items: center;
+    border-bottom: 1px dashed #5eecec; /* Cyan Terminal Divider */
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+}
+
+/* --- 2. THE SIDEBAR CLEANUP (Home Page Only) --- */
+/* Hides "Pages mentioning this page" on the landing page to prevent clutter */
+[data-slug="brain-static"] .backlinks-container, 
+[data-slug="brain-static"] .backlinks-header {
+    display: none !important;
+}
+
+/* --- 3. TERMINAL VIBE REFINEMENT --- */
+:root {
+    --text-normal: #5eecec !important; /* Cyan */
+    --text-accent: #FF5CFF !important; /* Magenta */
+    --font-family-main: 'Fira Code', monospace !important;
+}
 }
