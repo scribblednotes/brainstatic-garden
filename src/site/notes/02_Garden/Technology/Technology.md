@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-pinned":true,"dg-note-icon":"🌱","status":"seedling","category":"Technology","dg-permalink":"/technology/","dg-created":"30 April 2026, 02:49","dg-updated":"30 April 2026, 02:49","author":"Jackie Plage","tags":["status/seedling"],"description":"Technology category index page","dg-path":"Technology/Technology.md","permalink":"/technology/","pinned":true,"dgPassFrontmatter":true,"noteIcon":"🌱","created":"30 April 2026, 02:49","updated":"30 April 2026, 02:49","dg-note-properties":{"status":"seedling","category":"Technology","author":"Jackie Plage","tags":["status/seedling"],"description":"Technology category index page"}}
+{"dg-publish":true,"dg-pinned":true,"dg-note-icon":"🌱","status":"seedling","category":"Technology","dg-permalink":"/technology/","dg-created":"30 April 2026, 02:49","dg-updated":"30 April 2026, 02:49","author":"Jackie Plage","tags":["status/seedling"],"description":"Technology category index page","dg-path":"Technology/Technology.md","permalink":"/technology/","pinned":true,"dgPassFrontmatter":true,"dg-note-properties":{"status":"seedling","category":"Technology","author":"Jackie Plage","tags":["status/seedling"],"description":"Technology category index page"}}
 ---
 
 # 🌱 Technology category

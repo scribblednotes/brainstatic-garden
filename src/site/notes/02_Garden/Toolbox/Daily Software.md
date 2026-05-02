@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-note-icon":1,"dg-pinned":false,"status":"seedling","category":"Toolbox","dg-permalink":null,"dg-created":"30 April 2026, 11:57","dg-updated":"30 April 2026, 11:57","author":"Jackie Plage","tags":["status/seedling"],"description":"Software I use on a regular basis","dg-path":"Toolbox/Daily Software.md","permalink":"/toolbox/daily-software/","dgPassFrontmatter":true,"noteIcon":1,"created":"30 April 2026, 11:57","updated":"30 April 2026, 11:57","dg-note-properties":{"status":"seedling","category":"Toolbox","author":"Jackie Plage","tags":["status/seedling"],"description":"Software I use on a regular basis"}}
+{"dg-publish":true,"dg-note-icon":1,"dg-pinned":false,"status":"seedling","category":"Toolbox","dg-permalink":null,"dg-created":"30 April 2026, 11:57","dg-updated":"30 April 2026, 11:57","author":"Jackie Plage","tags":["status/seedling"],"description":"Software I use on a regular basis","dg-path":"Toolbox/Daily Software.md","permalink":"/toolbox/daily-software/","dgPassFrontmatter":true,"dg-note-properties":{"status":"seedling","category":"Toolbox","author":"Jackie Plage","tags":["status/seedling"],"description":"Software I use on a regular basis"}}
 ---
 
 📡 Category: [[02_Garden/Toolbox/Toolbox\|Toolbox]]

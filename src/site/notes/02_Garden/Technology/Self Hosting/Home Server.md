@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-pinned":false,"status":"seedling","dg-note-icon":"🌱","category":"Self Hosting","dg-permalink":null,"dg-created":"02 May 2026, 00:31","dg-updated":"02 May 2026, 00:31","author":"Jackie Plage","tags":["status/seedling"],"description":"Details on my home server.","dg-path":"Technology/Self Hosting/Home Server.md","permalink":"/technology/self-hosting/home-server/","dgPassFrontmatter":true,"noteIcon":"🌱","created":"02 May 2026, 00:31","updated":"02 May 2026, 00:31","dg-note-properties":{"status":"seedling","category":"Self Hosting","author":"Jackie Plage","tags":["status/seedling"],"description":"Details on my home server."}}
+{"dg-publish":true,"dg-pinned":false,"status":"seedling","dg-note-icon":"🌱","category":"Self Hosting","dg-permalink":null,"dg-created":"02 May 2026, 00:31","dg-updated":"02 May 2026, 00:31","author":"Jackie Plage","tags":["status/seedling"],"description":"Details on my home server.","dg-path":"Technology/Self Hosting/Home Server.md","permalink":"/technology/self-hosting/home-server/","dgPassFrontmatter":true,"dg-note-properties":{"status":"seedling","category":"Self Hosting","author":"Jackie Plage","tags":["status/seedling"],"description":"Details on my home server."}}
 ---
 
 📡 Category: [[02_Garden/Technology/Self Hosting/Self Hosting\|Self Hosting]]

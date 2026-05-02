@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-pinned":true,"dg-note-icon":"🌱","status":"seedling","category":"Music","dg-permalink":"/music/","dg-created":"30 April 2026, 04:46","dg-updated":"30 April 2026, 04:46","author":"Jackie Plage","tags":["status/seedling"],"description":"Music category index page","dg-path":"Music/Music.md","permalink":"/music/","pinned":true,"dgPassFrontmatter":true,"noteIcon":"🌱","created":"30 April 2026, 04:46","updated":"30 April 2026, 04:46","dg-note-properties":{"status":"seedling","category":"Music","author":"Jackie Plage","tags":["status/seedling"],"description":"Music category index page"}}
+{"dg-publish":true,"dg-pinned":true,"dg-note-icon":"🌱","status":"seedling","category":"Music","dg-permalink":"/music/","dg-created":"30 April 2026, 04:46","dg-updated":"30 April 2026, 04:46","author":"Jackie Plage","tags":["status/seedling"],"description":"Music category index page","dg-path":"Music/Music.md","permalink":"/music/","pinned":true,"dgPassFrontmatter":true,"dg-note-properties":{"status":"seedling","category":"Music","author":"Jackie Plage","tags":["status/seedling"],"description":"Music category index page"}}
 ---
 
 # 🌱 Music Category

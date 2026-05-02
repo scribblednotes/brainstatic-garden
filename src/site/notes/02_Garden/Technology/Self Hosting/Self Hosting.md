@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-pinned":true,"status":"seedling","dg-note-icon":"🌱","category":"Self Hosting","dg-permalink":"/self-hosting/","dg-created":"02 May 2026, 00:38","dg-updated":"02 May 2026, 00:38","author":"Jackie Plage","tags":["status/seedling"],"description":"Self hosting category index page","dg-path":"Technology/Self Hosting/Self Hosting.md","permalink":"/self-hosting/","pinned":true,"dgPassFrontmatter":true,"noteIcon":"🌱","created":"02 May 2026, 00:38","updated":"02 May 2026, 00:38","dg-note-properties":{"status":"seedling","category":"Self Hosting","author":"Jackie Plage","tags":["status/seedling"],"description":"Self hosting category index page"}}
+{"dg-publish":true,"dg-pinned":true,"status":"seedling","dg-note-icon":"🌱","category":"Self Hosting","dg-permalink":"/self-hosting/","dg-created":"02 May 2026, 00:38","dg-updated":"02 May 2026, 00:38","author":"Jackie Plage","tags":["status/seedling"],"description":"Self hosting category index page","dg-path":"Technology/Self Hosting/Self Hosting.md","permalink":"/self-hosting/","pinned":true,"dgPassFrontmatter":true,"dg-note-properties":{"status":"seedling","category":"Self Hosting","author":"Jackie Plage","tags":["status/seedling"],"description":"Self hosting category index page"}}
 ---
 
 # 🌱 Self Hosting Category
