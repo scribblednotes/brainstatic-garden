@@ -1,21 +1,49 @@
 {
   "/": [
-    "Home",
     "Technology",
+    "Toolbox",
     "Static",
     "Music",
-    "Meta"
+    "Meta",
+    "Health",
+    "Musings",
+    "Network",
+    "Brain Static"
   ],
   "/Technology": [
-    "index"
+    "Self Hosting",
+    "Technology"
+  ],
+  "/Technology/Self Hosting": [
+    "Home Server",
+    "Self Hosting"
+  ],
+  "/Toolbox": [
+    "Daily Software",
+    "Toolbox"
   ],
   "/Static": [
-    "index"
+    "Static"
   ],
   "/Music": [
-    "index"
+    "Music"
   ],
   "/Meta": [
-    "Style Test"
+    "Style Test",
+    "Meta"
+  ],
+  "/Health": [
+    "ADHD",
+    "Health",
+    "IBS"
+  ],
+  "/Health/ADHD": [
+    "ADHD"
+  ],
+  "/Musings": [
+    "Musings"
+  ],
+  "/Network": [
+    "Network"
   ]
 }
