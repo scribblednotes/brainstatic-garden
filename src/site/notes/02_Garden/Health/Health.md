@@ -4,6 +4,8 @@
 
 # 🌱 Health Category
 
+---
+
 I have a few health issues, so will use this category for noting information on those.  
 
 ### 🏷️ Subcategories:
@@ -14,10 +16,9 @@ I have a few health issues, so will use this category for noting information on 
 
 This is a list of all pages / notes contained in this folder.
 
-| File                                    | Status | Updated     |
-| --------------------------------------- | ------ | ----------- |
-| [[02_Garden/Health/ADHD/ADHD\|ADHD]] | 🌱     | 02 May 2026 |
-| [[02_Garden/Health/IBS\|IBS]]        | 🌱     | 02 May 2026 |
+| File                             | Status | Updated     |
+| -------------------------------- | ------ | ----------- |
+| [[02_Garden/Health/IBS\|IBS]] | 🌱     | 02 May 2026 |
 
 { .block-language-dataview}
 

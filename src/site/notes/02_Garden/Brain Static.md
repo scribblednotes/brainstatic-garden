@@ -6,9 +6,11 @@
 
 ---
 
-Hey!  You've found my digital garden - welcome!  My name is Jackie, and this is my space to unload my brain of things that I'm interested in or learning about, and notes with information that I don't want to forget.  It's also just a fun side project that allows me to work on it as and when I have the time, and isn't as demanding as a blog post.  I've only recently set this site up, on 27 April 2026, so it may be a while before anything of note lives here.
+Hey!  You've found my digital garden - welcome!  My name is Jackie, and this is my space to unload my brain of things that I'm interested in or learning about, alongside notes with information that I don't want to forget.  
 
-By design, a [digital garden](https://maggieappleton.com/garden-history/) is imperfect.  Unlike a blog, where an individual post is generally expected to be a finished product, digital gardens are more experimental.  They are places where thoughts and ideas are planted on pages and over time begin to take shape, eventually (hopefully) flourishing into something more substantial.  
+It's also just a fun side project that allows me to work on it as and when I have the time, and isn't as demanding as a blog post.  I've only recently set this site up, on 27 April 2026, so it may be a while before anything of note lives here.
+
+By design, a [digital garden](https://maggieappleton.com/garden-history/) is imperfect.  Unlike a blog, where an individual post is generally expected to be a finished product, digital gardens are more experimental in nature and intended to be added to continuously.  They are places where thoughts and ideas are planted on pages and over time begin to take shape, eventually (hopefully) flourishing into something more substantial.  
 
 ## The Digital Garden Legend
 

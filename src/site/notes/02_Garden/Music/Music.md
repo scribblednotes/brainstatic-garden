@@ -4,6 +4,8 @@
 
 # 🌱 Music Category
 
+---
+
 I sadly don't produce any music of my own, but I am very passionate about music.  It's absolutely an integral part of my life, in many ways.  I'm not sure yet exactly how to organise or present the information in this category, but it's definitely going to be an integral part of the site!
 
 ## 📃 Pages List

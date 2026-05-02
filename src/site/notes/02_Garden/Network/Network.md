@@ -4,6 +4,9 @@
 
 # 🌱 Network Category
 
+---
+
+
 This category is primarily for gathering links / notes on people.  Things like blogs that I admire, articles or blogs I enjoyed reading, quotes, or just people who are important to me in one way or another.
 
 ## 📃 Pages List

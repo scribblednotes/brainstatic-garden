@@ -4,6 +4,8 @@
 
 # 🌱 Technology category
 
+---
+
 I expect this category will have many subfolders, as it's a topic I spend a lot of time on / with!  
 
 ### 🏷️ Subcategories:
@@ -13,10 +15,8 @@ I expect this category will have many subfolders, as it's a topic I spend a lot 
 
 ## 📃 Pages List
 
-| File                                                                | Status | Updated     |
-| ------------------------------------------------------------------- | ------ | ----------- |
-| [[02_Garden/Technology/Self Hosting/Home Server\|Home Server]]   | 🌱     | 02 May 2026 |
-| [[02_Garden/Technology/Self Hosting/Self Hosting\|Self Hosting]] | 🌱     | 02 May 2026 |
+| File | Status | Updated |
+| ---- | ------ | ------- |
 
 { .block-language-dataview}
 

@@ -4,6 +4,8 @@
 
 # 🌳 Meta Category
 
+---
+
 This category is where all things related directly to this site will live.  That will include things like what tools were used to put this site together, perhaps a little about the philosophy behind "gardening" with my [[02_Garden/Health/ADHD/ADHD\|ADHD]] brain and maybe site changelogs.  
 
 ## 📃 Pages List

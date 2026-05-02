@@ -8,7 +8,7 @@
 
 # 🍎 BRAIN STATIC: STYLESHEET TEST
 
-This is the ultimate benchmark note for testing the current css on the site.
+This is a benchmark note for testing the current css on the site.
 
 ---
 
@@ -31,7 +31,7 @@ Testing `--text-normal`, `--text-muted`, and `--text-accent`.
 - *Italic text* for secondary thoughts (`--text-italic`).
 - ***Bold and Italic*** for critical system alerts.
 - ~~Strikethrough~~ for deprecated ideas.
-- ==Highlighted Text== for the ADHD-essential "Read this first" signal.
+- ==Highlighted Text== for the essential "Read this first" signal.
 - `Inline code` for variables and terminal commands (`--code-normal`).
 
 ---
@@ -109,6 +109,6 @@ def brain_static_loop():
 - **Internal Link:** [[02_Garden/Meta/Meta\|Meta]]
 - **Footnote Link:** This thought needs a citation[^1]. 
 
-[^1]: This is the footnote content at the bottom of the system log.
+[^1]: This is the footnote content at the bottom of the page.
 
 ---

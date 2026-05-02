@@ -4,6 +4,8 @@
 
 # 🌱 Self Hosting Category
 
+---
+
 This is a topic that's of great importance for anyone who values their privacy and would prefer to keep away from the clutches of the big tech companies as much as possible.  It's also just a fun hobby for me!
 
 This category will hold details of my own projects as well as notes on self hosting in general.

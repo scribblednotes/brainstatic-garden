@@ -4,6 +4,9 @@
 
 # 🌱 Musings Category
 
+---
+
+
 This category is where I will add pages that contain things of a more philosophical or introspective nature.  May contain copies of blog posts written on my [personal blog](https://fairieswearboots.org).
 
 ## 📃 Pages List
