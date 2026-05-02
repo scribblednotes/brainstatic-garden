@@ -41,7 +41,8 @@ This is a list of the 10 most recently updated pages.
 | [[02_Garden/Health/IBS\|IBS]]                                  | 🌱     | 02 May 2026 | Health       |
 | [[02_Garden/Meta/Style Test\|Style Test]]                      | 🍎     | 02 May 2026 | Meta         |
 | [[02_Garden/Technology/Self Hosting/Home Server\|Home Server]] | 🌱     | 02 May 2026 | Self Hosting |
-| [[02_Garden/Toolbox/Daily Software\|Daily Software]]           | 🌱     | 02 May 2026 | Toolbox      |
+| [[02_Garden/Toolbox/Daily Software\|Daily Software]]           | 🌳     | 02 May 2026 | Toolbox      |
+| [[02_Garden/Toolbox/Hardware\|Hardware]]                       | 🌱     | 02 May 2026 | Toolbox      |
 
 { .block-language-dataview}
 

@@ -11,7 +11,8 @@ This category is meant for the things I use frequently, like software or phone a
 
 | File                                                    | Status | Updated     |
 | ------------------------------------------------------- | ------ | ----------- |
-| [[02_Garden/Toolbox/Daily Software\|Daily Software]] | 🌱     | 02 May 2026 |
+| [[02_Garden/Toolbox/Daily Software\|Daily Software]] | 🌳     | 02 May 2026 |
+| [[02_Garden/Toolbox/Hardware\|Hardware]]             | 🌱     | 02 May 2026 |
 
 { .block-language-dataview}
 
