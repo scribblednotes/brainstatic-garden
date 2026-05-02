@@ -1,9 +1,12 @@
 ---
-{"dg-publish":true,"dg-pinned":false,"dg-note-icon":"🍎","status":"fruit","category":"Meta","permalink":"/meta/style-test/","dg-created":"30 April 2026, 04:41","dg-updated":"30 April 2026, 04:41","author":"Jackie Plage","tags":["status/fruit","meta/csstest"],"description":"CSS test page","dg-path":"Meta/Style Test.md","dgPassFrontmatter":true,"noteIcon":"🍎","created":"30 April 2026, 04:41","updated":"30 April 2026, 04:41","dg-note-properties":{"status":"fruit","category":"Meta","permalink":null,"author":"Jackie Plage","tags":["status/fruit","meta/csstest"],"description":"CSS test page"}}
+{"dg-publish":true,"dg-pinned":false,"dg-note-icon":"🍎","status":"fruit","category":"Meta","dg-permalink":null,"dg-created":"30 April 2026, 04:41","dg-updated":"30 April 2026, 04:41","author":"Jackie Plage","tags":["status/fruit","meta/csstest"],"description":"CSS test page","dg-path":"Meta/Style Test.md","permalink":"/meta/style-test/","dgPassFrontmatter":true,"noteIcon":"🍎","created":"30 April 2026, 04:41","updated":"30 April 2026, 04:41","dg-note-properties":{"status":"fruit","category":"Meta","author":"Jackie Plage","tags":["status/fruit","meta/csstest"],"description":"CSS test page"}}
 ---
 
+📡 Category: [[02_Garden/Meta/Meta\|Meta]]
 
-# BRAIN STATIC: STYLESHEET TEST
+---
+
+# 🍎 BRAIN STATIC: STYLESHEET TEST
 
 This is the ultimate benchmark note for testing the current css on the site.
 
